@@ -1,0 +1,5 @@
+names:
+  0: license_plate
+nc: 1
+train: train
+val: test
